@@ -1,0 +1,66 @@
+body{
+    background-color: aqua;
+}
+
+.card{
+    background-image: url(bilder.png/png_2.png);
+    
+    border: dashed 10px black;
+    padding-left: 150px;
+    padding-right: 150px;
+    padding-bottom: 150px;
+    padding-top: 30px;
+    width: 1000px;
+    border-radius: 20px;
+    margin: auto;
+}
+
+.header{
+    color: lightgreen;
+    background-color: black;
+    padding: 20px;
+    border: solid 10px white;
+    border-radius: 100px;
+    margin: auto;
+    width: 300px;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+br{
+    display: block;
+    /* makes it have a width */
+    content: "";
+    /* clears default height */
+    margin-top: 250px;
+    /* change this to whatever height you want it */
+}
+
+.kulhetsmeter{
+    background: white;
+    font-size: 20px;
+    border: solid 2px black;
+    padding: 5px;
+    width: 200px;
+    border-radius: 10px;
+    
+}
+
+
+.borderGame{
+    background-color: white;
+    padding: 15px;
+    border: solid 2px black;
+    border-radius: 30px;
+    margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
